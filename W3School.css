@@ -5,6 +5,7 @@
     border-color: red;
 */
   width:1510px;
+  position: relative;
 }
 
 img{
@@ -19,6 +20,7 @@ strong{
     
     padding:12px;
 }
+
 h1{
     color: white;
     font-weight: normal;
