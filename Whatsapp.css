@@ -5,6 +5,7 @@
     border:8px solid black ;
     border-radius: 35px;
     position: fixed;
+    unicode-bidi: isolate;
 }
 h1{
     margin-left: 700px;
@@ -86,6 +87,7 @@ h2{
     border-radius:40px 45px;
     position: sticky;
     bottom: 40px;
+    unicode-bidi: isolate;
 }
 .bi-emoji-smile{
     margin-left: 5px;
