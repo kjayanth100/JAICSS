@@ -184,6 +184,7 @@ p{
  z-index: -1;
  width: 100%;
  height: 90%;
+ unicode-bidi: isolate;
 }
 .right1{
     margin-left:206px;
