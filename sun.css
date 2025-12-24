@@ -1,0 +1,36 @@
+.subcircle{
+     
+       border-radius: 50%;
+    width:200px;
+    height: 200px;
+    position: absolute;
+    top:20px;
+    left:27px;
+    background-color:orange;
+    
+    
+}
+.circle{
+    margin-left: 38%;
+    border-radius: 50%;
+    width:250px;
+    height: 250px;
+    position: absolute;
+    z-index: 1;
+    background-color: white;
+}
+.container{
+    width:700px;
+    height:500px;
+    margin-left:25%;
+    position: relative;
+/* background-color: red; */
+}
+.subcont{
+    width:500px;
+    height:250px;
+    margin-left: 20%;
+    margin-top:100px;
+    position: absolute;
+    background-color:green;
+}
