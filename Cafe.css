@@ -1,0 +1,128 @@
+*{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav{
+    width:1470px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    z-index: 1;
+    top:0px;
+}
+li{
+    display: inline;
+    padding-left: 230px;
+}
+.container{
+    width:1470px;
+    height: 540px;
+    position: relative;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.heading h3{
+    font-size: 80px;
+    font-weight: normal;
+    color: white;
+    padding: 40px;
+    position: absolute;
+    top:45px;
+    left:635px;
+}
+.time p{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    position: absolute;
+    bottom:0px;
+    left:20px;
+}
+.address{
+    color: white;
+    padding: 5px;
+    position: absolute;
+    right: 15px;
+    bottom:0px;
+}
+.about{
+    width:750px;
+    height: 950px;
+    position: absolute;
+    left:25%;
+}
+.headings1 h3{
+    background-color: black;
+    color: white;
+    padding: 0px 10px 0px 10px;
+    font-weight: normal;
+    position: absolute;
+    left:39%;
+}
+.paras p{
+    font-size: 19px;
+    text-align: justify;
+    position: absolute;
+    top:90px;
+}
+.images img{
+    margin-top:350px;
+}
+.timings p{
+    margin-left: 5px;
+}
+.menu{
+    width:750px;
+    height: 950px;
+    position: absolute;
+}
+.headings h3{
+    background-color: black;
+    color: white;
+    padding: 0px 10px 0px 10px;
+    font-weight: normal;
+    position: absolute;
+    left:44%;
+}
+.menucont{
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    width:749px;
+    height: 650px;
+    margin-top:90px ;
+}
+.title{
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    width:749px;
+    height: 50px;
+}
+.title1{
+    margin-left: 10px;
+    width:365px;
+    height: 50px;
+    display: inline-block;
+}
+.title2{
+    width:360px;
+    height: 50px;
+    display: inline-block;
+}
+.title1 p{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.title2 p{
+    text-align: center;
+}
+.list{
+    margin-left: 10px;
+}
+dt{
+    font-size: 20px;
+}
+dd{
+    margin-left: 0px;
+    margin-top: 15px;
+}
