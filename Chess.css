@@ -1,0 +1,58 @@
+.container{
+    margin-top: 12px;
+    margin-left: 400px;
+    width:700px;
+    /* height:700px; */
+    border:2px solid black;
+    display: flex;
+    flex-wrap:wrap;
+    align-content: start;
+    display: block;
+    unicode-bidi: isolate;
+    position: relative;
+}
+.one{
+    width:700px;
+    /* height:84.3px; */
+    border:px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    unicode-bidi: isolate;
+}
+.two{
+    width:84.3px;
+    height:84.3px;
+    border:2px solid;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    unicode-bidi: isolate;
+}
+.three{
+    width:84.3px;
+    height:84.3px;
+    border:2px solid;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    unicode-bidi: isolate;
+}
+.one{
+    background-color:lightcoral;
+}
+.two:nth-child(even){
+    background-color:white;   
+}
+.three:nth-child(odd){
+    background-color:white;   
+}
+img{
+    overflow: hidden;
+    position: absolute;
+  
+    
+}
