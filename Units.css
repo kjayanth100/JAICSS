@@ -1,0 +1,19 @@
+*{
+    font-size: 1.05rem;
+}
+.container{
+    height:50vh;
+    padding:10px 180px;
+    text-align:center;
+}
+.main{
+    width:17vw;
+    display: inline-block;
+    margin:6px;
+}
+.main2{
+    margin-top:-10px;
+}
+img{
+    width:100%;
+}
